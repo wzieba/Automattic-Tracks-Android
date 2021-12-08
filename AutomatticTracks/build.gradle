@@ -14,7 +14,7 @@ ext {
 }
 
 dependencies {
-    implementation "io.sentry:sentry-android:5.0.1"
+    implementation "io.sentry:sentry-android:5.4.3"
     implementation "io.sentry:sentry-android-okhttp:5.0.1"
     implementation 'androidx.annotation:annotation:1.1.0'
     implementation 'com.squareup.okhttp3:okhttp:4.9.0'
